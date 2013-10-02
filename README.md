@@ -1,6 +1,15 @@
-# js2nl
+#js2nl 
 
-javascript snippet for generating inline styles based on a .css file.
-the goal with this snippet is to reduce significant time writing inline styles for newsletters.
+Email readers are crap. Especially Microsoft Outlook, the purpose of this tool is to ease the development of making newsletters
+width inline styles, saving us time and gaining readability using the modern web practices.
 
-this is my basic use for this snippet but can be implemented for live newsletter code generators or something like that
+
+### goal
+the main goal with this snippet is to reduce significant time writing inline styles for newsletters,
+perhaps it can be implemented for live newsletter code generators or something like that.
+
+### usage
+
+include this on your .html file
+``` html
+<script src="js/js2nl.js" data-css="style.css"></script>
