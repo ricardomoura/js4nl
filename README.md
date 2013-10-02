@@ -1,7 +1,7 @@
 #js2nl 
 
-Email readers are crap. Especially Microsoft Outlook, the purpose of this tool is to ease the development of making newsletters
-width inline styles, saving us time and gaining readability using the modern web practices.
+Email readers are crap. Especially Microsoft Outlook, the purpose of this tool is to ease the development of making 
+newsletters, leaving behind inline styles, saving us time and gaining readability using the modern web practices.
 
 
 ### goal
