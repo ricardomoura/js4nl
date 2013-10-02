@@ -1,0 +1,13 @@
+body {
+	font-size: 18px;
+	color: #000;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#backgroundTable {
+	background: red;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
