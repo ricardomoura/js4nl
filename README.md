@@ -12,4 +12,4 @@ perhaps it can be implemented for live newsletter code generators or something l
 
 include this on your .html file
 ``` html
-<script src="js/js2nl.js" data-css="style.css"></script>
+<script src="js/js4nl.js" data-css="style.css"></script>
